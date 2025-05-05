@@ -1,0 +1,166 @@
+<!-- Service Start -->
+<div class="container-fluid service py-5">
+  <div class="container py-5">
+    <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s" style="max-width: 700px">
+      <h4 class="text-primary mb-4 border-bottom border-primary border-2 d-inline-block p-2 title-border-radius">What We Do</h4>
+      <h1 class="mb-5 display-3">Thanks To Get Started With Our School</h1>
+    </div>
+    <div class="row g-5">
+      <div class="col-md-6 col-lg-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
+        <div class="text-center border-primary border bg-white service-item">
+          <div class="service-content d-flex align-items-center justify-content-center p-4">
+            <div class="service-content-inner">
+              <div class="p-4"><i class="fas fa-gamepad fa-6x text-primary"></i></div>
+              <a href="#" class="h4">Study & Game</a>
+              <p class="my-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, culpa qui officiis animi Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <a href="#" class="btn btn-primary text-white px-4 py-2 my-2 btn-border-radius">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-6 col-xl-3 wow fadeIn" data-wow-delay="0.3s">
+        <div class="text-center border-primary border bg-white service-item">
+          <div class="service-content d-flex align-items-center justify-content-center p-4">
+            <div class="service-content-inner">
+              <div class="p-4"><i class="fas fa-sort-alpha-down fa-6x text-primary"></i></div>
+              <a href="#" class="h4">A to Z Programs</a>
+              <p class="my-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, culpa qui officiis animi Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <a href="#" class="btn btn-primary text-white px-4 py-2 my-2 btn-border-radius">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-6 col-xl-3 wow fadeIn" data-wow-delay="0.5s">
+        <div class="text-center border-primary border bg-white service-item">
+          <div class="service-content d-flex align-items-center justify-content-center p-4">
+            <div class="service-content-inner">
+              <div class="p-4"><i class="fas fa-users fa-6x text-primary"></i></div>
+              <a href="#" class="h4">Expert Teacher</a>
+              <p class="my-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, culpa qui officiis animi Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <a href="#" class="btn btn-primary text-white px-4 py-2 my-2 btn-border-radius">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-6 col-xl-3 wow fadeIn" data-wow-delay="0.7s">
+        <div class="text-center border-primary border bg-white service-item">
+          <div class="service-content d-flex align-items-center justify-content-center p-4">
+            <div class="service-content-inner">
+              <div class="p-4"><i class="fas fa-user-nurse fa-6x text-primary"></i></div>
+              <a href="#" class="h4">Mental Health</a>
+              <p class="my-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, culpa qui officiis animi Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <a href="#" class="btn btn-primary text-white px-4 py-2 my-2 btn-border-radius">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Service End -->
+
+<div class="program-teacher d-flex align-items-center border-top border-primary bg-white px-4 py-3">
+  <img src="img/program-teacher.jpg" class="img-fluid rounded-circle p-2 border border-primary bg-white" alt="Image" style="width: 70px; height: 70px" />
+  <div class="ms-3">
+    <h6 class="mb-0 text-primary">Mary Mordern</h6>
+    <small>Arts Designer</small>
+  </div>
+</div>
+
+<div class="d-flex justify-content-between px-4 py-2 bg-primary rounded-bottom">
+  <small class="text-white"><i class="fas fa-wheelchair me-1"></i> 30 Sits</small>
+  <small class="text-white"><i class="fas fa-book me-1"></i> 11 Lessons</small>
+  <small class="text-white"><i class="fas fa-clock me-1"></i> 60 Hours</small>
+</div>
+
+<!-- profile -->
+
+<div class="testimonial-item img-border-radius bg-light border border-primary p-4">
+  <div class="p-4 position-relative">
+    <i class="fa fa-quote-right fa-2x text-primary position-absolute" style="top: 15px; right: 15px"></i>
+    <div class="d-flex align-items-center">
+      <div class="border border-primary bg-white rounded-circle">
+        <img src="img/testimonial-2.jpg" class="rounded-circle p-2" style="width: 80px; height: 80px; border-style: dotted; border-color: var(--bs-primary)" alt="" />
+      </div>
+      <div class="ms-4">
+        <h4 class="text-dark">Client Name</h4>
+        <p class="m-0 pb-3">Profession</p>
+        <div class="d-flex pe-5">
+          <i class="fas fa-star text-primary"></i>
+          <i class="fas fa-star text-primary"></i>
+          <i class="fas fa-star text-primary"></i>
+          <i class="fas fa-star text-primary"></i>
+          <i class="fas fa-star text-primary"></i>
+        </div>
+      </div>
+    </div>
+    <div class="border-top border-primary mt-4 pt-3">
+      <p class="mb-0">Lorem Ipsum is simply dummy text of the printing Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+    </div>
+  </div>
+</div>
+<div class="testimonial-item img-border-radius bg-light border border-primary p-4">
+  <div class="p-4 position-relative">
+    <i class="fa fa-quote-right fa-2x text-primary position-absolute" style="top: 15px; right: 15px"></i>
+    <div class="d-flex align-items-center">
+      <div class="border border-primary bg-white rounded-circle">
+        <img src="img/testimonial-2.jpg" class="rounded-circle p-2" style="width: 80px; height: 80px; border-style: dotted; border-color: var(--bs-primary)" alt="" />
+      </div>
+      <div class="ms-4">
+        <h4 class="text-dark">Client Name</h4>
+        <p class="m-0 pb-3">Profession</p>
+        <div class="d-flex pe-5">
+          <i class="fas fa-star text-primary"></i>
+          <i class="fas fa-star text-primary"></i>
+          <i class="fas fa-star text-primary"></i>
+          <i class="fas fa-star text-primary"></i>
+          <i class="fas fa-star text-primary"></i>
+        </div>
+      </div>
+    </div>
+    <div class="border-top border-primary mt-4 pt-3">
+      <p class="mb-0">Lorem Ipsum is simply dummy text of the printing Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+    </div>
+  </div>
+</div>
+
+<!-- Navbar start -->
+<div class="container-fluid border-bottom bg-light wow fadeIn" data-wow-delay="0.1s">
+  <div class="container px-0">
+    <nav class="navbar navbar-light navbar-expand-xl py-3 navigation" id="navbar">
+      <h1 class="text-primary display-6">EC<span class="text-secondary">C</span></h1>
+      <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+        <span class="fa fa-bars text-primary"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <div class="navbar-nav mx-auto">
+          <a href="index.html" class="nav-item nav-link active">Home</a>
+          <a href="about.html" class="nav-item nav-link">About</a>
+          <a href="program.html" class="nav-item nav-link">Work Programs</a>
+          <a href="event.html" class="nav-item nav-link">Member</a>&nbsp;
+          <div class="d-flex me-4">
+            <div id="phone-tada" class="d-flex align-items-center justify-content-center">
+              <a href="" class="position-relative wow tada" data-wow-delay=".9s">
+                <i class="fa fa-phone-alt text-primary fa-2x me-4"></i>
+                <div class="position-absolute" style="top: -7px; left: 20px">
+                  <span><i class="fa fa-comment-dots text-secondary"></i></span>
+                </div>
+              </a>
+            </div>
+            <div class="d-flex flex-column pe-3 border-end border-primary">
+              <span class="text-primary">Have any questions?</span>
+              <a href="#"><span class="text-secondary">Staff: +62 XXXXXX</span></a>
+            </div>
+          </div>
+          <button class="btn-search btn btn-primary btn-md-square rounded-circle" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search text-white"></i></button>
+        </div>
+      </div>
+    </nav>
+  </div>
+</div>
+<!-- Navbar End -->
+
+.navbar { border-bottom: 1px solid rgba(255, 255, 255, 0.1); } .navbar .navbar-nav .nav-link { padding: 10px 12px; font-size: 16px; font-weight: 600; transition: 0.5s; } .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav
+.nav-link.active, .fixed-top.bg-white .navbar .navbar-nav .nav-link:hover, .fixed-top.bg-white .navbar .navbar-nav .nav-link.active { color: var(--bs-primary); } @media (min-width: 1200px) { .navbar .nav-item .dropdown-menu { display:
+block; visibility: hidden; top: 100%; font-weight: 400; font-family: "Fredoka", sans-serif; transform: rotateX(-75deg); transform-origin: 0% 0%; border: 0; transition: 0.5s; opacity: 0; } } #searchModal .modal-content { background:
+rgba(255, 255, 255, 0.8); }
